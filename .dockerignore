@@ -1,0 +1,7 @@
+node_modules
+dist
+.git
+.gitignore
+README.md
+heyes-frontend.tar
+server-deploy.sh
